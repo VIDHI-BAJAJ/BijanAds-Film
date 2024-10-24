@@ -57,10 +57,10 @@
             logo = $(".navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', '../images/Logo/Logo- Bijan.png');
+            logo.attr('src', '../images/Logo/Logo.png');
         } else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', '../images/Logo/Logo- Bijan.png');
+            logo.attr('src', '../images/Logo/Logo.png');
         }
     });
     wind.on("scroll", function () {
@@ -69,10 +69,10 @@
             logo = $(".dark .navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', '../images/Logo/Logo- Bijan.png');
+            logo.attr('src', '../images/Logo/Logo.png');
         } else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', '../images/Logo/Logo- Bijan.png');
+            logo.attr('src', '../images/Logo/Logo.png');
         }
     });
 

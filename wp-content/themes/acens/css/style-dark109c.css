@@ -48,7 +48,7 @@
 
 /* ======= Typography style ======= */
 :root {
-  --clr-theme-color: #dc2751;
+  --clr-theme-color: #fff;
 }
 html,
 body.dark {
@@ -58,7 +58,7 @@ body.dark {
     font-smoothing: antialiased;
 }
 body.dark {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     color: #ccc;
     font-size: 16px;
     line-height: 1.75em;
@@ -888,7 +888,7 @@ body.dark .logo-wrapper {
     float: left;
 }
 body.dark .logo-wrapper .logo h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 36px;
     font-weight: 900;
     display: block;
@@ -1003,7 +1003,7 @@ body.dark .navbar .navbar-right .wrap .text {
     position: relative;
 }
 body.dark .navbar .navbar-right .wrap .text p {
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 14px;
     line-height: 12px;
     color: var(--clr-theme-color);
@@ -1731,7 +1731,7 @@ body.dark .header .caption[data-overlay-dark] h1 span {
 }
 body.dark .header .caption p,
 body.dark .header .caption[data-overlay-dark] p {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
     color: #fff;
     margin-bottom: 15px;
@@ -1883,7 +1883,7 @@ body.dark .parallax-header[data-overlay-dark] h1 span {
     opacity: .8;
 }
 body.dark .parallax-header[data-overlay-dark] p {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
     color: #fff;
     margin-bottom: 15px;
@@ -1957,7 +1957,7 @@ body.dark .kenburns-inner .caption[data-overlay-dark] h1 span {
 }
 body.dark .kenburns-inner .caption p,
 body.dark .kenburns-inner .caption[data-overlay-dark] p {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
     color: #fff;
     margin-bottom: 15px;
@@ -2030,7 +2030,7 @@ body.dark .video-fullscreen[data-overlay-dark] h1 span {
 }
 body.dark .video-fullscreen p,
 body.dark .video-fullscreen[data-overlay-dark] p {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
     color: #fff;
     margin-bottom: 15px;
@@ -2059,7 +2059,7 @@ body.dark .section-padding h2 {
     font-weight: 900;
     margin-bottom: 5px;
     color: #fff;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
 }
 body.dark .section-padding h5 {
     font-size: 24px;
@@ -2071,7 +2071,7 @@ body.dark .section-padding h5 {
 body.dark .section-padding[data-overlay-dark] h6,
 body.dark .section-padding h6 {
     display: inline-block;
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--clr-theme-color);
@@ -2113,7 +2113,7 @@ body.dark .banner-header .breadcrumbs li {
     margin:0;
     font-size: 16px;
     font-weight: 900;
-    font-family: 'Poppins', sans-serif;
+    
     color:#fff;
 }
 body.dark .banner-header .breadcrumbs li a {
@@ -2198,7 +2198,7 @@ body.dark .about .item .wrap .title h4 {
 }
 body.dark .about .item .wrap .title h6 {
     font-size: 16px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 400;
     color: rgba(255,255,255,0.7);
     position: relative;
@@ -2279,7 +2279,7 @@ body.dark .price .item .type {
     right: 15px;
     padding: 10px 20px;
     color: #fff;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
     font-size: 16px;
     background: var(--clr-theme-color);
@@ -2293,7 +2293,7 @@ body.dark .price .item .content h2 {
     display: inline-flex;
 }
 body.dark .price .item .content h2 span {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     color: var(--clr-theme-color);
     font-weight: 400;
     font-size: 16px;
@@ -2313,7 +2313,7 @@ body.dark .price .item .content .feat li i {
     padding-top: 10px;
 }
 body.dark .price .item .numb {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
     font-size: 84px;
     position: absolute;
@@ -2440,7 +2440,7 @@ body.dark .team .item .con h5 span {
     color: #ccc;
     text-transform: none;
     font-weight: 400;
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     letter-spacing: 0;
 }
 body.dark .team .item:hover .con h5,
@@ -2499,7 +2499,7 @@ body.dark .team-single .wrapper .cont .coll h6 {
     white-space: normal;
     margin: 0;
     color: #1b1b1b;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     letter-spacing: 0;
 }
 body.dark .team-single .wrapper .cont .coll h5 {
@@ -2512,7 +2512,7 @@ body.dark .team-single .wrapper .cont .coll h5 {
     vertical-align: middle;
     transition: color .3s;
     color: #1b1b1b;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     letter-spacing: 0;
 }
 /* link */
@@ -2557,12 +2557,12 @@ body.dark .team-single .con .simpl-bord .nav-link {
     cursor: pointer;
     color: #fff;
     font-size: 18px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
 }
 body.dark .team-single .con .simpl-bord .nav-link.active {
     font-weight: 900;
     color: var(--clr-theme-color);
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 18px;
 }
 body.dark .team-single .tab-content p {
@@ -2604,7 +2604,7 @@ body.dark .skills .skill-item {
     margin-bottom: 40px;
 }
 body.dark .skills .skill-item h6 {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 400;
     color: #fff;
     font-size: 16px;
@@ -2631,7 +2631,7 @@ body.dark .skills-box .skill-progress .progres:after {
   position: absolute;
   right: 10px;
   top: -25px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Montserrat", "Open Sans", sans-serif;
   font-size: 16px;
   font-weight: 900;
   color: #fff;
@@ -2689,7 +2689,7 @@ body.dark .works .item .wrap .text h4 {
     color: #fff;
 }
 body.dark .works .item .wrap .text p {
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 20px;
     color: var(--clr-theme-color);
     margin-bottom: 0;
@@ -2783,14 +2783,14 @@ body.dark .work-single .s-list>li::before {
     display: table;
 }
 body.dark .work-single strong {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
     font-weight: 900;
     display: block;
     color: #fff;
 }
 body.dark .work-single span {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
@@ -2876,7 +2876,7 @@ body.dark .services .item:hover .wrap .con .icon-2 a {
   opacity: 1;
 }
 body.dark .services .item .wrap .numb {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 700;
     font-size: 100px;
     position: relative;
@@ -3008,7 +3008,7 @@ body.dark .sidebar .services ul li a:after {
     right: 0;
     top: 0;
     content: '\f105';
-    font-family: "Font Awesome 6 Pro";
+    font-family: "Montserrat", "Open Sans", sans-serif;
     opacity: 1;
     font-size: 16px;
     font-weight: normal;
@@ -3030,7 +3030,7 @@ body.dark .gallery-filter {
     position: relative;
 }
 body.dark .gallery-filter li {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 20px;
     font-weight: 900;
     margin-right: 15px;
@@ -3129,7 +3129,7 @@ body.dark .gallery-box .gallery-detail h4 {
     margin-bottom: 0;
 }
 body.dark .gallery-box .gallery-detail p {
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 20px;
     color: var(--clr-theme-color);
     margin-bottom: 0;
@@ -3209,7 +3209,7 @@ body.dark .video-gallery .item .text h4 {
     margin-bottom: 0;
 }
 body.dark .video-gallery .item .text p {
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 20px;
     color: var(--clr-theme-color);
     margin-bottom: 0;
@@ -3334,13 +3334,13 @@ body.dark .accordion-box .block .acc-btn {
     padding-right: 60px;
     color: #fff;
     transition: all 500ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
 }
 body.dark .accordion-box .block .acc-btn .count {
     color: var(--clr-theme-color);
     padding-right: 5px;
     font-weight: 900;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 18px;
 }
 body.dark .accordion-box .block .acc-btn.active .count {
@@ -3356,7 +3356,7 @@ body.dark .accordion-box .block .acc-btn:before {
     color: var(--clr-theme-color);
     line-height: 30px;
     content: "\f107";
-    font-family: "Font Awesome 6 Pro";
+    font-family: "Montserrat", "Open Sans", sans-serif;
     transition: all 500ms ease;
 }
 body.dark .accordion-box .block .acc-btn.active {
@@ -3365,7 +3365,7 @@ body.dark .accordion-box .block .acc-btn.active {
 }
 body.dark .accordion-box .block .acc-btn.active:before {
   color: #fff;
-  font-family: "Font Awesome 6 Pro";
+  font-family: "Montserrat", "Open Sans", sans-serif;
   content: "\f106";
 }
 body.dark .accordion-box .block .acc-content {
@@ -3403,7 +3403,7 @@ body.dark .lets-talk .wrap {
 body.dark .lets-talk[data-overlay-dark] h6,
 body.dark .lets-talk h6 {
     display: inline-block;
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 20px;
     color: var(--clr-theme-color);
     margin-bottom: 10px;
@@ -3479,7 +3479,7 @@ body.dark .testimonials .item .info .cont h6 {
     margin-bottom: 0px;
     padding-top: 15px;
     font-weight: 900;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     color: #fff;
     line-height: 1.2em;
     text-transform: none;
@@ -3551,7 +3551,7 @@ body.dark .events .item .text p {
     color: var(--clr-theme-color);
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     margin-bottom: 0;
 }
 body.dark .events .item .date {
@@ -3559,7 +3559,7 @@ body.dark .events .item .date {
     align-items: center;
 }
 body.dark .events .item .date > span {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
     line-height: 48px;
     font-size: 85px;
@@ -3586,7 +3586,7 @@ body.dark .events .item .date h5 {
     font-size: 13px;
     text-transform: uppercase;
     font-weight: 400;
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     margin-bottom: 0;
 }
 body.dark .events .item .img {
@@ -3698,7 +3698,7 @@ body.dark .event-detail .item .con a {
     color: var(--clr-theme-color);
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     margin-bottom: 0;
 }
 
@@ -3751,7 +3751,7 @@ body.dark .blog-home .item .wrap .title h4.stitle a {
     font-size: 24px;
 }
 body.dark .blog-home .item .wrap .title h6 a {
-    font-family: 'Architects Daughter', cursive;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 18px;
     color: var(--clr-theme-color);
     display: block;
@@ -3890,7 +3890,7 @@ body.dark .blog2 .item .wrapper .con .category a {
     font-size: 12px;
 }
 .blog2 .item .wrapper .con .text {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 24px;
     font-weight: 700;
     margin: 0;
@@ -3993,7 +3993,7 @@ body.dark .blog .item .img .date {
     color: #fff;
     padding: 5px 12px;
     text-align: center;
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 400;
     border-radius: 5px;
 }
@@ -4034,7 +4034,7 @@ body.dark .blog .comment h5 {
     color: #fff;
 }
 body.dark .blog .comment h5 span {
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 14px;
     color: #ccc;
     font-weight: 400;
@@ -4073,7 +4073,7 @@ body.dark .blog .category {
     align-items: center;
     color: #fff;
     font-weight: 400;
-    font-family: 'Hind', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 16px;
 }
 body.dark .blog .category a {
@@ -4215,7 +4215,7 @@ body.dark .pagination-wrap li a {
     line-height: 46px;
     text-align: center;
     color: #fff;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
     border: 2px solid #1b1b1b;
     border-radius: 50%;
@@ -4369,7 +4369,7 @@ body.dark .opening-hours ul li .dots {
 body.dark .not-found h2 {
     font-size: 180px;
     line-height: 180px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     color: var(--clr-theme-color);
     margin-bottom: 15px;
     font-weight: 900;
@@ -4394,7 +4394,7 @@ body.dark .btn-1 {
     line-height: 20px;
     text-align: center;
     margin-right: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
 }
 body.dark .btn-1:hover {
@@ -4424,7 +4424,7 @@ body.dark .btn-2 {
     line-height: 20px;
     text-align: center;
     margin-right: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
 }
 body.dark .btn-2:hover {
@@ -4454,7 +4454,7 @@ body.dark .btn-3 {
     line-height: 20px;
     text-align: center;
     margin-right: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
 }
 body.dark .btn-3 i {
@@ -4481,7 +4481,7 @@ body.dark .btn-4 {
     line-height: 20px;
     text-align: center;
     margin-right: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
 }
 body.dark .btn-4 i {
@@ -4508,7 +4508,7 @@ body.dark .btn-5 {
     line-height: 20px;
     text-align: center;
     margin-right: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-weight: 900;
 }
 body.dark .btn-5:hover {
@@ -4544,7 +4544,7 @@ body.dark .footer .top img {
     margin-bottom: 15px;
 }
 body.dark .footer .top h4 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 40px;
     font-weight: 900;
     display: block;
@@ -4609,14 +4609,14 @@ body.dark .footer .top .phone {
     display: block;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
 }
 body.dark .footer .top .phone a {
-    color: var(--clr-theme-color);
+    color: #fff;
 }
 body.dark .footer .top .phone a:hover
 body.dark .footer .top .phone:hover {
-    color: var(--clr-theme-color);
+    color: #fff;
 }
 body.dark .footer .top .mail {
     font-size: 16px;
@@ -4805,7 +4805,7 @@ body.dark .progress-wrap.active-progress {
 }
 body.dark .progress-wrap::after {
     position: absolute;
-    font-family: 'Font Awesome 6 Pro';
+    font-family: "Montserrat", "Open Sans", sans-serif;
     content: '\f062';
     text-align: center;
     line-height: 50px;
@@ -4898,7 +4898,7 @@ body.dark .progress-wrap svg.progress-circle path {
     }
     body.dark .accordion-box .block .acc-btn {
         padding: 25px 30px 25px 15px;
-        font-family: 'Hind', sans-serif;
+        font-family: "Montserrat", "Open Sans", sans-serif;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;

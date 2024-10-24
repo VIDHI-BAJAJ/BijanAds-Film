@@ -48,7 +48,7 @@
 
 /* ======= Typography style ======= */
 :root {
-  --clr-theme-color: #dc2751;
+  --clr-theme-color: #000;
 }
 html,
 body {
@@ -820,10 +820,10 @@ ul.disc.disc li:before {
     color: #1b1b1b;
 }
 .navbar .navbar-nav .nav-link:hover {
-    color: var(--clr-theme-color);
+    color: #000;
 }
 .navbar .navbar-nav .nav-link:hover i {
-    color: var(--clr-theme-color);
+    color: #000;
 }
 .navbar .navbar-nav .active {
     color: var(--clr-theme-color) !important;
@@ -869,7 +869,7 @@ ul.disc.disc li:before {
     margin-bottom: 0px;
 }
 .nav-scroll .logo-wrapper .logo h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 36px;
     font-weight: 900;
     display: block;
@@ -4619,7 +4619,7 @@ ul.disc.disc li:before {
     font-family: "Montserrat", "Open Sans", sans-serif;
 }
 .footer .top .phone a {
-    color: var(--clr-theme-color);
+    color: #fff;
 }
 .footer .top .phone a:hover
 .footer .top .phone:hover {
