@@ -50,7 +50,7 @@
     $(".preloader-bg").delay(500).fadeOut(500);
     var wind = $(window);
     
-    Navbar scrolling background
+    // Navbar scrolling background
     wind.on("scroll", function () {
         var bodyScroll = wind.scrollTop(),
             navbar = $(".navbar"),
